@@ -38,3 +38,5 @@ Generated Audio: "This image contains Dog, Pet, Animal."
 
 Author
 Sanika Shingan
+
+<img width="952" height="662" alt="image" src="https://github.com/user-attachments/assets/8106b6f2-aa24-43f8-9e3a-49ebce44ad9f" />
